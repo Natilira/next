@@ -8,3 +8,7 @@ Olá , eu sou Natália, estudante do next.
 - Erick foi meu professor
 - amo chocolate  
 - eu reprovei a 6 serie
+
+## idade
+
+- 34 anos
